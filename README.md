@@ -52,5 +52,3 @@ When you see the line `import PyPDF2` in a Python script, it indicates that the 
 
 By importing `PyPDF2`, a developer gains access to all these functionalities and can integrate them into their Python script or application. In the context of your previous questions, it's likely being used to extract data from an invoice stored in PDF format.
 
-### Necessary resources
-To address this problem set, you can refer to the tutorial video [here](https://youtu.be/vsrxkJ9HF24), which provides guidance on processing PDF files. Additionally, example source code can be accessed on GitHub at [this link](https://github.com/ajurenoks/dip225_3).
